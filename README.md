@@ -44,4 +44,4 @@ This tool demonstrates strategic thinking, executive communication, and rapid pr
 
 ---
 
-*Built to showcase skills for AI safety strategic roles, particularly Special Projects Associate positions.*
+*Built with AI assistance*
