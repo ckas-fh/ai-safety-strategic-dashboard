@@ -1,0 +1,12 @@
+# .gitignore
+node_modules/
+.env
+.env.local
+.env.production
+*.log
+.DS_Store
+
+# Backend environment files
+backend/.env
+backend/node_modules/
+backend/*.log
